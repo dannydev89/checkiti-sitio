@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "institutions": [
+    {
+      "id": "iguala",
+      "name": "Instituto Tecnológico de Iguala",
+      "api": "https://checkiti.cloud/api",
+      "active": true
+    }
+  ]
+}
